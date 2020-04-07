@@ -58,5 +58,6 @@ namespace Modding2.Items
 
 }
 
-![](Picktures/filename%20pala.png)
+![pala](https://user-images.githubusercontent.com/59556540/78720502-2124cf00-7926-11ea-88a5-a18237217a54.png)
+
 
